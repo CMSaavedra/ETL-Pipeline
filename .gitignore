@@ -1,0 +1,4 @@
+# Add data files to .gitignore
+input/train.csv
+input/sample_submission.csv
+input/test.csv
